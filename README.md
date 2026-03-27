@@ -21,12 +21,11 @@ Unlike traditional single-step classification benchmarks, MTF-Bench introduces s
 
 The dataset is systematically organized across diverse content categories and generator types, ensuring broad coverage and strong generalization.
 
+
 <p align="center">
-  
-    <img src="pie1.drawio_01.png" width="45%">
+  <img src="pie1.drawio_01.png" width="45%">
     <img src="pie2.drawio_01.png" width="45%">
 </p>
-
 <p align="center">
   <em>(a) Content Distribution &nbsp;&nbsp;&nbsp; (b) Generator Distribution</em>
 </p>
