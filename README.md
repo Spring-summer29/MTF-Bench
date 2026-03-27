@@ -50,17 +50,13 @@ MTF-Bench is built through a two-stage pipeline including data preparation and m
 
 ---
 
+
 ### 🔍 Detection Pipeline
 
 We design a multi-turn forensic reasoning framework that progressively analyzes images from multiple complementary perspectives.
 
 <p align="center">
-  <img src="assets/detection_pipeline_1.png" width="45%">
-  <img src="assets/detection_pipeline_2.png" width="45%">
-</p>
-
-<p align="center">
-  <em>(a) Multi-turn reasoning process &nbsp;&nbsp;&nbsp; (b) Multi-perspective forensic analysis</em>
+  <img src="detection.png" width="70%">
 </p>
 
 <p align="center">
