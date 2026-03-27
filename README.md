@@ -10,7 +10,7 @@ We also encourage you to visit our project homepage for more details.
 
 ## 📌 Overview
 
-**MTF-Bench** is a large-scale benchmark designed for **multi-turn, multi-perspective synthetic image detection**.  
+**MTF-Bench** is the first benchmark designed for **multi-turn, multi-perspective synthetic image detection**.  
 Unlike traditional single-step classification benchmarks, MTF-Bench introduces structured multi-round dialogue reasoning to better evaluate model capabilities in image forensics.
 
 ---
