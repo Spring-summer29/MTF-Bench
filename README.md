@@ -14,6 +14,39 @@ We also encourage you to visit our project homepage for more details.
 Unlike traditional single-step classification benchmarks, MTF-Bench introduces structured multi-round dialogue reasoning to better evaluate model capabilities in image forensics.
 
 ---
+---
+
+## 📊 Dataset Visualization
+
+### 📈 Data Distribution
+
+The dataset is systematically organized across diverse content categories and generator types, ensuring broad coverage and strong generalization.
+
+<p align="center">
+  <img src="assets/data_distribution.png" width="80%">
+</p>
+
+---
+
+### 🏗️ Dataset Construction Pipeline
+
+MTF-Bench is built through a two-stage pipeline including data preparation and multi-turn dialogue generation with quality control.
+
+<p align="center">
+  <img src="assets/construction_pipeline.png" width="90%">
+</p>
+
+---
+
+### 🔍 Detection Pipeline
+
+We design a multi-turn forensic reasoning framework that progressively analyzes images from multiple complementary perspectives.
+
+<p align="center">
+  <img src="assets/detection_pipeline.png" width="90%">
+</p>
+
+---
 
 ## 🚀 Key Features
 
@@ -56,11 +89,3 @@ Unlike traditional single-step classification benchmarks, MTF-Bench introduces s
 
 ---
 
-## 🔧 Contents
-
-- `dataset/` — MTF-Bench dataset  
-- `pipeline/` — Dataset construction pipeline  
-- `methods/` — Evaluated methods and baselines  
-- `evaluation/` — Evaluation scripts and metrics  
-
----
