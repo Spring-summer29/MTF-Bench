@@ -15,7 +15,6 @@ Unlike traditional single-step classification benchmarks, MTF-Bench introduces s
 
 ---
 ---
-
 ## 📊 Dataset Visualization
 
 ### 📈 Data Distribution
@@ -23,7 +22,20 @@ Unlike traditional single-step classification benchmarks, MTF-Bench introduces s
 The dataset is systematically organized across diverse content categories and generator types, ensuring broad coverage and strong generalization.
 
 <p align="center">
-  <img src="assets/data_distribution.png" width="80%">
+  <a href="pie1.drawio.pdf">
+    <img src="pie1.drawio.png" width="45%">
+  </a>
+  <a href="pie2.drawio.pdf">
+    <img src="pie2.drawio.pdf" width="45%">
+  </a>
+</p>
+
+<p align="center">
+  <em>(a) Content Distribution &nbsp;&nbsp;&nbsp; (b) Generator Distribution</em>
+</p>
+
+<p align="center">
+  <em>Figure 1: Distribution of MTF-Bench across different dimensions.</em>
 </p>
 
 ---
@@ -33,7 +45,11 @@ The dataset is systematically organized across diverse content categories and ge
 MTF-Bench is built through a two-stage pipeline including data preparation and multi-turn dialogue generation with quality control.
 
 <p align="center">
-  <img src="assets/construction_pipeline.png" width="90%">
+  <img src="assets/construction_pipeline.png" width="85%">
+</p>
+
+<p align="center">
+  <em>Figure 2: Overview of the MTF-Bench construction pipeline.</em>
 </p>
 
 ---
@@ -43,7 +59,16 @@ MTF-Bench is built through a two-stage pipeline including data preparation and m
 We design a multi-turn forensic reasoning framework that progressively analyzes images from multiple complementary perspectives.
 
 <p align="center">
-  <img src="assets/detection_pipeline.png" width="90%">
+  <img src="assets/detection_pipeline_1.png" width="45%">
+  <img src="assets/detection_pipeline_2.png" width="45%">
+</p>
+
+<p align="center">
+  <em>(a) Multi-turn reasoning process &nbsp;&nbsp;&nbsp; (b) Multi-perspective forensic analysis</em>
+</p>
+
+<p align="center">
+  <em>Figure 3: Multi-turn detection pipeline of MTF-Bench.</em>
 </p>
 
 ---
