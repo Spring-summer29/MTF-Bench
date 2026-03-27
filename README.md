@@ -41,7 +41,8 @@ The dataset is systematically organized across diverse content categories and ge
 MTF-Bench is built through a two-stage pipeline including data preparation and multi-turn dialogue generation with quality control.
 
 <p align="center">
-  <img src="assets/construction_pipeline.png" width="85%">
+  <img src="dataset_cons.drawio (optimized) (pdfresizer.com) (1)_01.png
+" width="85%">
 </p>
 
 <p align="center">
