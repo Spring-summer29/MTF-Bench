@@ -4,7 +4,9 @@
 This repository is the official implementation of the **MTF-Bench benchmark**. It contains the MTF-Bench dataset, construction pipeline, and evaluated methods for multi-turn forensic reasoning on image authenticity.
 
 If you find this project useful, please consider **forking**, **watching**, and giving a ⭐ **star** to support our work.  
-We also encourage you to visit our project homepage for more details.
+We also encourage you to visit our project homepage for more details.  
+
+Our dataset and trained models are available at: [Project Page](https://your-link-here).
 
 ---
 
