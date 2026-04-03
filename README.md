@@ -8,6 +8,9 @@ We also encourage you to visit our project homepage for more details.
 
 Our dataset and trained models are available at: [Project Page](https://drive.google.com/drive/folders/19QZIMFx1y3-MunnnbTVXVojhqL4eKTYY?usp=sharing).
 
+The Appendix (PDF) can be accessed here:  
+[📄 Appendix PDF](https://your-link-to-appendix.pdf)
+
 ---
 
 ## 📌 Overview
