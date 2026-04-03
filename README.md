@@ -9,7 +9,7 @@ We also encourage you to visit our project homepage for more details.
 Our dataset and trained models are available at: [Project Page](https://huggingface.co/datasets/sanmu29/MTF-Bench/tree/main).
 
 The Appendix (PDF) can be accessed here:  
-[📄 Appendix PDF](MTF-Bench_appendix.pdf)
+[📄 Appendix PDF](./MTF-Bench_appendix.pdf)
 
 ---
 
