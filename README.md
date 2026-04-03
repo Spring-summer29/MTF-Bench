@@ -6,10 +6,10 @@ This repository is the official implementation of the **MTF-Bench benchmark**. I
 If you find this project useful, please consider **forking**, **watching**, and giving a ⭐ **star** to support our work.  
 We also encourage you to visit our project homepage for more details.  
 
-Our dataset and trained models are available at: [Project Page](https://drive.google.com/drive/folders/19QZIMFx1y3-MunnnbTVXVojhqL4eKTYY?usp=sharing).
+Our dataset and trained models are available at: [Project Page](https://huggingface.co/datasets/sanmu29/MTF-Bench/tree/main).
 
 The Appendix (PDF) can be accessed here:  
-[📄 Appendix PDF](https://your-link-to-appendix.pdf)
+[📄 Appendix PDF](MTF-Bench_appendix.pdf)
 
 ---
 
